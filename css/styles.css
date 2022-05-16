@@ -51,12 +51,12 @@ h1{
 .btn {
   -webkit-border-radius: 28;
   -moz-border-radius: 28;
-  border-radius: 20px;
+  border-radius: 35px;
   font-family: Arial;
   color: #ffffff;
-  font-size: 25px;
+  font-size: 18px;
   background: hsl(322, 100%, 66%);
-  padding: 10px 20px 10px 20px;
+  padding: 12px 35px 12px 35px;
   border: solid hsl(322, 100%, 66%) 2px;
   text-decoration: none;
 }
